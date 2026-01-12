@@ -1,4 +1,5 @@
 🛡️ End-to-End Credit Card Fraud Detection using Machine Learning
+
 📌 Overview
 
 This project implements a cost-sensitive, end-to-end fraud detection system for financial transactions using machine learning. It simulates how real-world fraud monitoring systems are designed and evaluated in banks and fintech organizations, where fraud cases are rare, costs are asymmetric, and decision thresholds directly impact business outcomes.
