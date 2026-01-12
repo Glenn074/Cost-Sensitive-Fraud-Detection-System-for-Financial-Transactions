@@ -32,6 +32,14 @@ Numerical features with PCA-transformed variables
 
 This dataset closely reflects the imbalance and challenges faced in real financial systems.
 
+## 📊 Dataset Access
+Due to GitHub file size limits and data usage policies, the dataset is not included
+in this repository.
+
+You can download the dataset from Kaggle and place it in the `data/` directory:
+- https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
+
 🧠 Approach & Methodology
 1. Exploratory Data Analysis (EDA)
 
